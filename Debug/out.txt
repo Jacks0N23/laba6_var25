@@ -1,0 +1,10 @@
+3  numbers of lines
+3  numbers of colomns
+274 -  R value
+
+Inputed Matrix
+
+   31   58   99
+   86   71   66
+   98   25  300
+R value < Subtraction of max and min
